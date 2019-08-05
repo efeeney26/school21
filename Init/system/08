@@ -1,0 +1,3 @@
+~/.ssh/authorized_keys
+Open key in ~/.ssh/id_rsa.pub, 
+close key in ~/.ssh/id_rsa

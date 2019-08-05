@@ -1,0 +1,2 @@
+ifconfig -L en0| grep broadcast | cut -d' ' -f6
+arp -a | grep ru | awk {'print$2'} | sed 's/^(\(.*\))$/\1/'

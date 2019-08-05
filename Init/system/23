@@ -1,0 +1,5 @@
+1)adduser username
+2)create password
+3)repeat password
+4)Y
+5)ssh username@127.0.0.1

@@ -1,0 +1,7 @@
+./generate_map.pl 10 10 5 > map0
+./generate_map.pl 20 32 5 > map1
+./generate_map.pl 4 7 5 > map2
+./generate_map.pl 87 56 5 > map3
+./generate_map.pl 43 54 5 > map4
+./generate_map.pl 45 45 5 > map5
+./generate_map.pl 1 1 5 > map6
